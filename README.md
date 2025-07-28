@@ -102,6 +102,7 @@ After building, you can zip the `dist/` folder and use it as your update package
 - Original project: [Vencord](https://github.com/Vendicated/Vencord)
 - Mods, rebuilds & CDN by **ApexTeam**
 - Contributors: see GitHub commit log
+- Join our Discord [here](https://discord.gg/qKrmbcUErC)
 
 ---
 
