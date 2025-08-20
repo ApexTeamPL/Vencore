@@ -6,3 +6,5 @@
 
 __ __
 **WARNING**: As reported by users in Vencore 1.3.7 NSFWBypass no longer works! We are working on fix, however it may be needed to use our CordLess project to load older web apps in order to fix this issue. Revenge users can normally use this mode without any issue.
+
+***ISSUE RESOLVED!!!***
